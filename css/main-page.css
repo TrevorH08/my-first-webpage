@@ -16,7 +16,8 @@ ul {
 
 li {
   font-weight: 700;
-  color: #f20000;
+  font-style: oblique;
+  line-height: 30px;
 }
 
 img {
